@@ -1,4 +1,4 @@
 # first
 This is my first git repository
 <br>
-Author-vivek kumar
+Author-vivek Rajput
